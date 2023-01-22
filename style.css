@@ -1,0 +1,56 @@
+/*hela navigeringsbar*/
+.nav1 > a {
+float: right;
+margin-right: 10px;
+text-decoration: none;
+}
+
+/*navigering portfolio*/
+.portfolio {
+    font-size: large;
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white
+}
+
+/*navigering aboutme*/
+.aboutme {
+    font-size: large;
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white
+
+}
+/*navigering resume*/
+.resume {
+    font-size: large;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:white
+}
+.navigationbar {
+    background-color: rgb(64, 64, 64);
+    overflow: hidden;
+    height: 50px;
+    width: 50 px;
+}
+
+.hannam {
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 10px;
+}
+
+#text {
+    margin-left: 330px;
+    margin-top: 100px;
+    font-size:x-large;
+}
+    
